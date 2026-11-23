@@ -1,0 +1,39 @@
+PSY412 ATTENTION ASSIGNMENT 2 — FINAL ANALYSIS FREEZE
+Generated from supplied pilot files. Descriptive/pilot analysis only; no confirmatory inferential tests.
+
+DATA COVERAGE
+- Consolidated behavioural file: 600 trial rows.
+- Design target: 8 participants × 80 trials = 640 trial rows.
+- P005 has pre-stage only; P006 has post questionnaire but no pre questionnaire; participant-specific missingness is retained.
+- Questionnaire paired analyses: 6 complete cases (001, 002, 003, 004, 007, 008).
+- Baseline CFQ: 7 available.
+- Post manipulation checks: 7 available.
+- Cyberball logs: 6 available (001–005, 008).
+
+BEHAVIOURAL SCORING
+- Omission rates are calculated using all trials in each participant × stage × task cell.
+- Accuracy among responses is calculated only among trials with a recorded response.
+- Correct/all-trial proportion is also provided, so omissions are not hidden.
+- RT summaries use recorded responses only.
+- P003's original programmed scoring is retained. Its 65 recorded central responses all match the opposite mapping in a diagnostic sensitivity check; do not silently recode.
+- P007 and P008 had near-total behavioural omissions. User reports that both said they were unable to perform the task after exclusion. This is informal participant feedback, not a formally collected qualitative measure; do not claim a causal freeze response.
+- P005 is incomplete (pre only); P002 has no peripheral responses; P003 has very sparse peripheral responses.
+- Do not treat bracket discrimination accuracy as an antisaccade success or attentional-capture measure.
+
+EYE TRACKING
+- Tobii Pro Nano sampling is approximately 60 Hz (~16.7 ms/sample).
+- Tracking-valid and on-screen-valid are distinct; gaze points outside normalized screen bounds are not treated as on-screen.
+- P003 has poor on-screen trial-window coverage; flag rather than automatically repair.
+- Candidate I-VT events are exploratory, not validated saccades. Directional rates are conditional on detected candidates and QC-passing trials, not trial-level capture-error prevalence.
+- Manual inspection was limited; no validated primary oculomotor outcome is established. Report eye-tracking findings as exploratory/descriptive or state the measure could not be validated.
+
+QUESTIONNAIRES / CYBERBALL
+- Shame and belongingness are item means (1–5); CFQ total is 15 items coded 0–4 (total 0–60).
+- Paired pre/post comparisons have N=6; descriptive change scores only.
+- Actual Cyberball exposure from receiver logs is available for 6 participants. Logged exposure supports inclusion/exclusion assignment for those participants.
+- Self-estimated throw percentages differ from actual logs for some included participants. Keep subjective estimates separate from actual logged exposure.
+- P006 and P007 logs are absent; do not impute actual exposure.
+
+REPORTING
+- Sample is extremely small and incomplete. Use descriptive language, report denominators for every outcome, avoid strong causal or population-level claims.
+- No further analyses are recommended under the deadline. Use the attached CSVs and report limitations transparently.

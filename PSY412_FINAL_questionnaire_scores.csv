@@ -1,0 +1,9 @@
+participant,condition,pre_file_present,post_file_present,shame_pre_mean,shame_pre_mean_n,belonging_pre_mean,belonging_pre_mean_n,shame_post_mean,shame_post_mean_n,belonging_post_mean,belonging_post_mean_n,cfq_total,cfq_mean,cfq_n,felt_ignored,felt_excluded,estimated_throws_pct,cyberball_throws,cyberball_received,cyberball_actual_pct,cyberball_logged_final_count,cyberball_duration_s,shame_change_post_minus_pre,belonging_change_post_minus_pre
+1,included,True,True,3.4,5,2.333333333333333,3,2.2,5,3.0,3,23.0,1.5333333333333334,15,2.0,2.0,80.0,105.0,33.0,31.428571428571427,33.0,179.393,-1.1999999999999997,0.666666666666667
+2,excluded,True,True,1.2,5,3.0,3,1.4,5,3.0,3,20.0,1.3333333333333333,15,2.0,3.0,20.0,90.0,2.0,2.2222222222222223,2.0,180.955,0.19999999999999996,0.0
+3,included,True,True,2.2,5,3.333333333333333,3,2.4,5,3.333333333333333,3,39.0,2.6,15,2.0,4.0,65.0,105.0,37.0,35.23809523809524,37.0,179.393,0.19999999999999973,0.0
+4,excluded,True,True,1.6,5,4.333333333333333,3,1.2,5,3.6666666666666665,3,30.0,2.0,15,5.0,5.0,8.0,92.0,2.0,2.1739130434782608,2.0,179.619,-0.40000000000000013,-0.6666666666666665
+5,included,True,False,2.6,5,2.6666666666666665,3,,0,,0,29.0,1.9333333333333331,15,,,,107.0,35.0,32.71028037383178,34.0,180.768,,
+6,included,False,True,,0,,0,4.0,5,4.0,3,,,0,2.0,2.0,27.0,,,,,,,
+7,excluded,True,True,1.6,5,2.0,3,1.8,5,2.333333333333333,3,25.0,1.6666666666666667,15,5.0,5.0,2.0,,,,,,0.19999999999999996,0.33333333333333304
+8,excluded,True,True,2.2,5,2.6666666666666665,3,2.2,5,2.0,3,25.0,1.6666666666666667,15,4.0,4.0,2.0,93.0,2.0,2.150537634408602,2.0,179.551,0.0,-0.6666666666666665

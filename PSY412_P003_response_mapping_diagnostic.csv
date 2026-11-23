@@ -1,0 +1,5 @@
+stage,task,central_trials,central_responses,central_correct_programmed,central_correct_if_reversed,central_reversed_mapping_match_pct,central_median_RT_s,peripheral_responses,peripheral_correct_programmed,peripheral_correct_if_reversed
+post,anti,20,20,0,20,100.0,0.5819,0,0,0
+post,pro,20,20,0,20,100.0,0.647,0,0,0
+pre,anti,20,20,0,20,100.0,0.6125499999999999,2,1,1
+pre,pro,20,5,0,5,100.0,1.6812,0,0,0

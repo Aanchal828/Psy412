@@ -1,0 +1,246 @@
+participant,condition,order,stage,section,item_number,item,response,response_label,system_time_us
+001,included,pro_anti,pre,State shame,1,I want to sink into the floor and disappear.,3,3  Feeling this way somewhat,54839365641
+001,included,pro_anti,pre,State shame,2,I feel small.,4,4,54848798538
+001,included,pro_anti,pre,State shame,3,I feel like I am a bad person.,2,2,54853548429
+001,included,pro_anti,pre,State shame,4,"I feel humiliated, disgraced.",4,4,54856910488
+001,included,pro_anti,pre,State shame,5,"I feel worthless, powerless.",4,4,54861091626
+001,included,pro_anti,pre,Belongingness,1,I feel included.,2,2  Slightly,54869772031
+001,included,pro_anti,pre,Belongingness,2,I feel accepted.,3,3  Moderately,54873552087
+001,included,pro_anti,pre,Belongingness,3,I feel like I belong.,2,2  Slightly,54876094304
+001,included,pro_anti,pre,Everyday mistakes (CFQ 2.0),1,Do you find you forget why you went from one part of the house to the other?,2,3  Occasionally,54888454366
+001,included,pro_anti,pre,Everyday mistakes (CFQ 2.0),2,Do you find you forget whether you've turned off a light or a fire or locked the door?,3,4  Quite Often,54897084782
+001,included,pro_anti,pre,Everyday mistakes (CFQ 2.0),3,Do you fail to hear people speaking to you when you are doing something else?,2,3  Occasionally,54901767777
+001,included,pro_anti,pre,Everyday mistakes (CFQ 2.0),4,Do you find you forget appointments?,2,3  Occasionally,54905630997
+001,included,pro_anti,pre,Everyday mistakes (CFQ 2.0),5,Do you find you accidentally throw away the thing you want and keep what you meant to throw away?,1,2  Very Rarely,54914177938
+001,included,pro_anti,pre,Everyday mistakes (CFQ 2.0),6,Do you find you forget what you came to the shops to buy?,2,3  Occasionally,54921252741
+001,included,pro_anti,pre,Everyday mistakes (CFQ 2.0),7,Do you forget to take your keys with you?,1,2  Very Rarely,54925049369
+001,included,pro_anti,pre,Everyday mistakes (CFQ 2.0),8,Do you forget passwords you need to remember?,1,2  Very Rarely,54927223751
+001,included,pro_anti,pre,Everyday mistakes (CFQ 2.0),9,Do you receive a delivery and forget what you ordered?,0,1  Never,54932073801
+001,included,pro_anti,pre,Everyday mistakes (CFQ 2.0),10,Do you call people by the wrong name?,0,1  Never,54934164673
+001,included,pro_anti,pre,Everyday mistakes (CFQ 2.0),11,"In conversations, do you forget people's name even when you know them well?",1,2  Very Rarely,54939483390
+001,included,pro_anti,pre,Everyday mistakes (CFQ 2.0),12,Do you get the dates of things mixed up?,2,3  Occasionally,54944902368
+001,included,pro_anti,pre,Everyday mistakes (CFQ 2.0),13,"Do you find you go to put objects in the wrong place, like putting something from the cupboard in the fridge?",2,3  Occasionally,54951960346
+001,included,pro_anti,pre,Everyday mistakes (CFQ 2.0),14,Do you leave home and later realise you have forgotten something you intended to bring with you?,2,3  Occasionally,54957730409
+001,included,pro_anti,pre,Everyday mistakes (CFQ 2.0),15,"Do you think something is missing, only to later see it where you had already looked?",2,3  Occasionally,54963383553
+001,included,pro_anti,post,State shame,1,I want to sink into the floor and disappear.,2,2,55330638004
+001,included,pro_anti,post,State shame,2,I feel small.,3,3  Feeling this way somewhat,55335070412
+001,included,pro_anti,post,State shame,3,I feel like I am a bad person.,2,2,55337612629
+001,included,pro_anti,post,State shame,4,"I feel humiliated, disgraced.",1,1  Not feeling this way at all,55340037726
+001,included,pro_anti,post,State shame,5,"I feel worthless, powerless.",3,3  Feeling this way somewhat,55343382790
+001,included,pro_anti,post,Belongingness,1,I feel included.,3,3  Moderately,55348082701
+001,included,pro_anti,post,Belongingness,2,I feel accepted.,3,3  Moderately,55350073013
+001,included,pro_anti,post,Belongingness,3,I feel like I belong.,3,3  Moderately,55351561526
+001,included,pro_anti,post,The game you just played,1,I felt ignored.,2,2  Slightly,55358034341
+001,included,pro_anti,post,The game you just played,2,I felt excluded.,2,2  Slightly,55362115110
+001,included,pro_anti,post,The game you just played,1,"Out of 100%, about what percentage of the throws did you receive?",80,80,55387504279
+001,included,pro_anti,post,One last question,1,"In a few words, what do you think this study was about?",antisaccade and prosaccade,antisaccade and prosaccade,55406638184
+002,excluded,anti_pro,pre,State shame,1,I want to sink into the floor and disappear.,2,2,61503115105
+002,excluded,anti_pro,pre,State shame,2,I feel small.,1,1  Not feeling this way at all,61509604499
+002,excluded,anti_pro,pre,State shame,3,I feel like I am a bad person.,1,1  Not feeling this way at all,61513167022
+002,excluded,anti_pro,pre,State shame,4,"I feel humiliated, disgraced.",1,1  Not feeling this way at all,61515023543
+002,excluded,anti_pro,pre,State shame,5,"I feel worthless, powerless.",1,1  Not feeling this way at all,61522399369
+002,excluded,anti_pro,pre,Belongingness,1,I feel included.,3,3  Moderately,61529792020
+002,excluded,anti_pro,pre,Belongingness,2,I feel accepted.,3,3  Moderately,61533638728
+002,excluded,anti_pro,pre,Belongingness,3,I feel like I belong.,3,3  Moderately,61537268131
+002,excluded,anti_pro,pre,Everyday mistakes (CFQ 2.0),1,Do you find you forget why you went from one part of the house to the other?,3,4  Quite Often,61556016905
+002,excluded,anti_pro,pre,Everyday mistakes (CFQ 2.0),2,Do you find you forget whether you've turned off a light or a fire or locked the door?,1,2  Very Rarely,61562757486
+002,excluded,anti_pro,pre,Everyday mistakes (CFQ 2.0),3,Do you fail to hear people speaking to you when you are doing something else?,4,5  Very Often,61568795380
+002,excluded,anti_pro,pre,Everyday mistakes (CFQ 2.0),4,Do you find you forget appointments?,1,2  Very Rarely,61574766398
+002,excluded,anti_pro,pre,Everyday mistakes (CFQ 2.0),5,Do you find you accidentally throw away the thing you want and keep what you meant to throw away?,0,1  Never,61580001044
+002,excluded,anti_pro,pre,Everyday mistakes (CFQ 2.0),6,Do you find you forget what you came to the shops to buy?,2,3  Occasionally,61586758314
+002,excluded,anti_pro,pre,Everyday mistakes (CFQ 2.0),7,Do you forget to take your keys with you?,0,1  Never,61590103410
+002,excluded,anti_pro,pre,Everyday mistakes (CFQ 2.0),8,Do you forget passwords you need to remember?,4,5  Very Often,61593548903
+002,excluded,anti_pro,pre,Everyday mistakes (CFQ 2.0),9,Do you receive a delivery and forget what you ordered?,1,2  Very Rarely,61598148404
+002,excluded,anti_pro,pre,Everyday mistakes (CFQ 2.0),10,Do you call people by the wrong name?,0,1  Never,61600991694
+002,excluded,anti_pro,pre,Everyday mistakes (CFQ 2.0),11,"In conversations, do you forget people's name even when you know them well?",0,1  Never,61604520595
+002,excluded,anti_pro,pre,Everyday mistakes (CFQ 2.0),12,Do you get the dates of things mixed up?,1,2  Very Rarely,61608200225
+002,excluded,anti_pro,pre,Everyday mistakes (CFQ 2.0),13,"Do you find you go to put objects in the wrong place, like putting something from the cupboard in the fridge?",1,2  Very Rarely,61614840160
+002,excluded,anti_pro,pre,Everyday mistakes (CFQ 2.0),14,Do you leave home and later realise you have forgotten something you intended to bring with you?,0,1  Never,61620543439
+002,excluded,anti_pro,pre,Everyday mistakes (CFQ 2.0),15,"Do you think something is missing, only to later see it where you had already looked?",2,3  Occasionally,61628521488
+002,excluded,anti_pro,post,State shame,1,I want to sink into the floor and disappear.,2,2,62118890824
+002,excluded,anti_pro,post,State shame,2,I feel small.,2,2,62123640696
+002,excluded,anti_pro,post,State shame,3,I feel like I am a bad person.,1,1  Not feeling this way at all,62125781732
+002,excluded,anti_pro,post,State shame,4,"I feel humiliated, disgraced.",1,1  Not feeling this way at all,62127220014
+002,excluded,anti_pro,post,State shame,5,"I feel worthless, powerless.",1,1  Not feeling this way at all,62128524699
+002,excluded,anti_pro,post,Belongingness,1,I feel included.,3,3  Moderately,62137472269
+002,excluded,anti_pro,post,Belongingness,2,I feel accepted.,3,3  Moderately,62140349434
+002,excluded,anti_pro,post,Belongingness,3,I feel like I belong.,3,3  Moderately,62142406593
+002,excluded,anti_pro,post,The game you just played,1,I felt ignored.,2,2  Slightly,62149581743
+002,excluded,anti_pro,post,The game you just played,2,I felt excluded.,3,3  Moderately,62152809754
+002,excluded,anti_pro,post,The game you just played,1,"Out of 100%, about what percentage of the throws did you receive?",20,20,62169451482
+002,excluded,anti_pro,post,One last question,1,"In a few words, what do you think this study was about?",how experiences change the way you feel about yourself and how different situations shape your identity,how experiences change the way you feel about yourself and how different situations shape your identity,62233358766
+003,included,pro_anti,pre,State shame,1,I want to sink into the floor and disappear.,3,3  Feeling this way somewhat,64862595503
+003,included,pro_anti,pre,State shame,2,I feel small.,2,2,64870707326
+003,included,pro_anti,pre,State shame,3,I feel like I am a bad person.,2,2,64876293494
+003,included,pro_anti,pre,State shame,4,"I feel humiliated, disgraced.",1,1  Not feeling this way at all,64884254811
+003,included,pro_anti,pre,State shame,5,"I feel worthless, powerless.",3,3  Feeling this way somewhat,64887599812
+003,included,pro_anti,pre,Belongingness,1,I feel included.,3,3  Moderately,64900996756
+003,included,pro_anti,pre,Belongingness,2,I feel accepted.,4,4  Very,64905111272
+003,included,pro_anti,pre,Belongingness,3,I feel like I belong.,3,3  Moderately,64910379742
+003,included,pro_anti,pre,Everyday mistakes (CFQ 2.0),1,Do you find you forget why you went from one part of the house to the other?,3,4  Quite Often,64922472142
+003,included,pro_anti,pre,Everyday mistakes (CFQ 2.0),2,Do you find you forget whether you've turned off a light or a fire or locked the door?,3,4  Quite Often,64926971111
+003,included,pro_anti,pre,Everyday mistakes (CFQ 2.0),3,Do you fail to hear people speaking to you when you are doing something else?,3,4  Quite Often,64930366479
+003,included,pro_anti,pre,Everyday mistakes (CFQ 2.0),4,Do you find you forget appointments?,2,3  Occasionally,64935367371
+003,included,pro_anti,pre,Everyday mistakes (CFQ 2.0),5,Do you find you accidentally throw away the thing you want and keep what you meant to throw away?,2,3  Occasionally,64942425421
+003,included,pro_anti,pre,Everyday mistakes (CFQ 2.0),6,Do you find you forget what you came to the shops to buy?,3,4  Quite Often,64946171901
+003,included,pro_anti,pre,Everyday mistakes (CFQ 2.0),7,Do you forget to take your keys with you?,3,4  Quite Often,64950286339
+003,included,pro_anti,pre,Everyday mistakes (CFQ 2.0),8,Do you forget passwords you need to remember?,4,5  Very Often,64952962406
+003,included,pro_anti,pre,Everyday mistakes (CFQ 2.0),9,Do you receive a delivery and forget what you ordered?,1,2  Very Rarely,64957846148
+003,included,pro_anti,pre,Everyday mistakes (CFQ 2.0),10,Do you call people by the wrong name?,2,3  Occasionally,64962228222
+003,included,pro_anti,pre,Everyday mistakes (CFQ 2.0),11,"In conversations, do you forget people's name even when you know them well?",1,2  Very Rarely,64967245765
+003,included,pro_anti,pre,Everyday mistakes (CFQ 2.0),12,Do you get the dates of things mixed up?,2,3  Occasionally,64971059175
+003,included,pro_anti,pre,Everyday mistakes (CFQ 2.0),13,"Do you find you go to put objects in the wrong place, like putting something from the cupboard in the fridge?",3,4  Quite Often,64977080288
+003,included,pro_anti,pre,Everyday mistakes (CFQ 2.0),14,Do you leave home and later realise you have forgotten something you intended to bring with you?,4,5  Very Often,64981947455
+003,included,pro_anti,pre,Everyday mistakes (CFQ 2.0),15,"Do you think something is missing, only to later see it where you had already looked?",3,4  Quite Often,64988185897
+003,included,pro_anti,post,State shame,1,I want to sink into the floor and disappear.,2,2,65629367291
+003,included,pro_anti,post,State shame,2,I feel small.,2,2,65633147101
+003,included,pro_anti,post,State shame,3,I feel like I am a bad person.,3,3  Feeling this way somewhat,65636860323
+003,included,pro_anti,post,State shame,4,"I feel humiliated, disgraced.",2,2,65639034764
+003,included,pro_anti,post,State shame,5,"I feel worthless, powerless.",3,3  Feeling this way somewhat,65644319741
+003,included,pro_anti,post,Belongingness,1,I feel included.,3,3  Moderately,65649237028
+003,included,pro_anti,post,Belongingness,2,I feel accepted.,4,4  Very,65652197456
+003,included,pro_anti,post,Belongingness,3,I feel like I belong.,3,3  Moderately,65654589068
+003,included,pro_anti,post,The game you just played,1,I felt ignored.,2,2  Slightly,65661563423
+003,included,pro_anti,post,The game you just played,2,I felt excluded.,4,4  Very,65664457048
+003,included,pro_anti,post,The game you just played,1,"Out of 100%, about what percentage of the throws did you receive?",65,65,65685815262
+003,included,pro_anti,post,One last question,1,"In a few words, what do you think this study was about?",gauging attention span and how attending to certain things makes one feel,gauging attention span and how attending to certain things makes one feel,65730488613
+004,excluded,pro_anti,pre,State shame,1,I want to sink into the floor and disappear.,1,1  Not feeling this way at all,67395293557
+004,excluded,pro_anti,pre,State shame,2,I feel small.,3,3  Feeling this way somewhat,67401331598
+004,excluded,pro_anti,pre,State shame,3,I feel like I am a bad person.,2,2,67406198555
+004,excluded,pro_anti,pre,State shame,4,"I feel humiliated, disgraced.",1,1  Not feeling this way at all,67408322737
+004,excluded,pro_anti,pre,State shame,5,"I feel worthless, powerless.",1,1  Not feeling this way at all,67410329705
+004,excluded,pro_anti,pre,Belongingness,1,I feel included.,5,5  Extremely,67432724902
+004,excluded,pro_anti,pre,Belongingness,2,I feel accepted.,5,5  Extremely,67438896554
+004,excluded,pro_anti,pre,Belongingness,3,I feel like I belong.,3,3  Moderately,67445921222
+004,excluded,pro_anti,pre,Everyday mistakes (CFQ 2.0),1,Do you find you forget why you went from one part of the house to the other?,2,3  Occasionally,67472029427
+004,excluded,pro_anti,pre,Everyday mistakes (CFQ 2.0),2,Do you find you forget whether you've turned off a light or a fire or locked the door?,4,5  Very Often,67481311843
+004,excluded,pro_anti,pre,Everyday mistakes (CFQ 2.0),3,Do you fail to hear people speaking to you when you are doing something else?,3,4  Quite Often,67487667837
+004,excluded,pro_anti,pre,Everyday mistakes (CFQ 2.0),4,Do you find you forget appointments?,4,5  Very Often,67490795196
+004,excluded,pro_anti,pre,Everyday mistakes (CFQ 2.0),5,Do you find you accidentally throw away the thing you want and keep what you meant to throw away?,0,1  Never,67501432716
+004,excluded,pro_anti,pre,Everyday mistakes (CFQ 2.0),6,Do you find you forget what you came to the shops to buy?,1,2  Very Rarely,67507503996
+004,excluded,pro_anti,pre,Everyday mistakes (CFQ 2.0),7,Do you forget to take your keys with you?,1,2  Very Rarely,67511651827
+004,excluded,pro_anti,pre,Everyday mistakes (CFQ 2.0),8,Do you forget passwords you need to remember?,2,3  Occasionally,67517840075
+004,excluded,pro_anti,pre,Everyday mistakes (CFQ 2.0),9,Do you receive a delivery and forget what you ordered?,2,3  Occasionally,67525182293
+004,excluded,pro_anti,pre,Everyday mistakes (CFQ 2.0),10,Do you call people by the wrong name?,0,1  Never,67529480884
+004,excluded,pro_anti,pre,Everyday mistakes (CFQ 2.0),11,"In conversations, do you forget people's name even when you know them well?",1,2  Very Rarely,67537241596
+004,excluded,pro_anti,pre,Everyday mistakes (CFQ 2.0),12,Do you get the dates of things mixed up?,3,4  Quite Often,67542526608
+004,excluded,pro_anti,pre,Everyday mistakes (CFQ 2.0),13,"Do you find you go to put objects in the wrong place, like putting something from the cupboard in the fridge?",1,2  Very Rarely,67550186787
+004,excluded,pro_anti,pre,Everyday mistakes (CFQ 2.0),14,Do you leave home and later realise you have forgotten something you intended to bring with you?,4,5  Very Often,67557111133
+004,excluded,pro_anti,pre,Everyday mistakes (CFQ 2.0),15,"Do you think something is missing, only to later see it where you had already looked?",2,3  Occasionally,67567831826
+004,excluded,pro_anti,post,State shame,1,I want to sink into the floor and disappear.,1,1  Not feeling this way at all,68009212883
+004,excluded,pro_anti,post,State shame,2,I feel small.,2,2,68012775395
+004,excluded,pro_anti,post,State shame,3,I feel like I am a bad person.,1,1  Not feeling this way at all,68014247209
+004,excluded,pro_anti,post,State shame,4,"I feel humiliated, disgraced.",1,1  Not feeling this way at all,68016538655
+004,excluded,pro_anti,post,State shame,5,"I feel worthless, powerless.",1,1  Not feeling this way at all,68017893360
+004,excluded,pro_anti,post,Belongingness,1,I feel included.,3,3  Moderately,68026707626
+004,excluded,pro_anti,post,Belongingness,2,I feel accepted.,4,4  Very,68030688261
+004,excluded,pro_anti,post,Belongingness,3,I feel like I belong.,4,4  Very,68034133685
+004,excluded,pro_anti,post,The game you just played,1,I felt ignored.,5,5  Extremely,68044553473
+004,excluded,pro_anti,post,The game you just played,2,I felt excluded.,5,5  Extremely,68048985674
+004,excluded,pro_anti,post,The game you just played,1,"Out of 100%, about what percentage of the throws did you receive?",8,8,68084259371
+004,excluded,pro_anti,post,One last question,1,"In a few words, what do you think this study was about?","i think the study was about attention, like how long you can focus on something which is tracked through where youre looking.","i think the study was about attention, like how long you can focus on something which is tracked through where youre looking.",68193107638
+005,included,anti_pro,pre,State shame,1,I want to sink into the floor and disappear.,3,3  Feeling this way somewhat,70353684485
+005,included,anti_pro,pre,State shame,2,I feel small.,1,1  Not feeling this way at all,70372968752
+005,included,anti_pro,pre,State shame,3,I feel like I am a bad person.,2,2,70378437768
+005,included,anti_pro,pre,State shame,4,"I feel humiliated, disgraced.",3,3  Feeling this way somewhat,70386215149
+005,included,anti_pro,pre,State shame,5,"I feel worthless, powerless.",4,4,70391383319
+005,included,anti_pro,pre,Belongingness,1,I feel included.,3,3  Moderately,70402104199
+005,included,anti_pro,pre,Belongingness,2,I feel accepted.,3,3  Moderately,70406084943
+005,included,anti_pro,pre,Belongingness,3,I feel like I belong.,2,2  Slightly,70416153507
+005,included,anti_pro,pre,Everyday mistakes (CFQ 2.0),1,Do you find you forget why you went from one part of the house to the other?,3,4  Quite Often,70431992331
+005,included,anti_pro,pre,Everyday mistakes (CFQ 2.0),2,Do you find you forget whether you've turned off a light or a fire or locked the door?,2,3  Occasionally,70446108509
+005,included,anti_pro,pre,Everyday mistakes (CFQ 2.0),3,Do you fail to hear people speaking to you when you are doing something else?,1,2  Very Rarely,70453049540
+005,included,anti_pro,pre,Everyday mistakes (CFQ 2.0),4,Do you find you forget appointments?,1,2  Very Rarely,70459455323
+005,included,anti_pro,pre,Everyday mistakes (CFQ 2.0),5,Do you find you accidentally throw away the thing you want and keep what you meant to throw away?,2,3  Occasionally,70473922708
+005,included,anti_pro,pre,Everyday mistakes (CFQ 2.0),6,Do you find you forget what you came to the shops to buy?,1,2  Very Rarely,70493023006
+005,included,anti_pro,pre,Everyday mistakes (CFQ 2.0),7,Do you forget to take your keys with you?,1,2  Very Rarely,70505684037
+005,included,anti_pro,pre,Everyday mistakes (CFQ 2.0),8,Do you forget passwords you need to remember?,3,4  Quite Often,70511236954
+005,included,anti_pro,pre,Everyday mistakes (CFQ 2.0),9,Do you receive a delivery and forget what you ordered?,3,4  Quite Often,70517308163
+005,included,anti_pro,pre,Everyday mistakes (CFQ 2.0),10,Do you call people by the wrong name?,1,2  Very Rarely,70523329355
+005,included,anti_pro,pre,Everyday mistakes (CFQ 2.0),11,"In conversations, do you forget people's name even when you know them well?",3,4  Quite Often,70534167388
+005,included,anti_pro,pre,Everyday mistakes (CFQ 2.0),12,Do you get the dates of things mixed up?,0,1  Never,70541676952
+005,included,anti_pro,pre,Everyday mistakes (CFQ 2.0),13,"Do you find you go to put objects in the wrong place, like putting something from the cupboard in the fridge?",2,3  Occasionally,70550407531
+005,included,anti_pro,pre,Everyday mistakes (CFQ 2.0),14,Do you leave home and later realise you have forgotten something you intended to bring with you?,2,3  Occasionally,70556361751
+005,included,anti_pro,pre,Everyday mistakes (CFQ 2.0),15,"Do you think something is missing, only to later see it where you had already looked?",4,5  Very Often,70565075672
+006,included,pro_anti,post,State shame,1,I want to sink into the floor and disappear.,5,5  Feeling this way very strongly,72055486098
+006,included,pro_anti,post,State shame,2,I feel small.,5,5  Feeling this way very strongly,72057225508
+006,included,pro_anti,post,State shame,3,I feel like I am a bad person.,3,3  Feeling this way somewhat,72060687553
+006,included,pro_anti,post,State shame,4,"I feel humiliated, disgraced.",4,4,72064434038
+006,included,pro_anti,post,State shame,5,"I feel worthless, powerless.",3,3  Feeling this way somewhat,72065956044
+006,included,pro_anti,post,Belongingness,1,I feel included.,4,4  Very,72073448955
+006,included,pro_anti,post,Belongingness,2,I feel accepted.,4,4  Very,72074268511
+006,included,pro_anti,post,Belongingness,3,I feel like I belong.,4,4  Very,72075924259
+006,included,pro_anti,post,The game you just played,1,I felt ignored.,2,2  Slightly,72092331657
+006,included,pro_anti,post,The game you just played,2,I felt excluded.,2,2  Slightly,72094338850
+006,included,pro_anti,post,The game you just played,1,"Out of 100%, about what percentage of the throws did you receive?",27,27,72125966457
+006,included,pro_anti,post,One last question,1,"In a few words, what do you think this study was about?","i think it was about how our fee;ings about exclusion and belonging affect our perception of the same, even though in reality we may be way more/less included than we feel","i think it was about how our fee;ings about exclusion and belonging affect our perception of the same, even though in reality we may be way more/less included than we feel",72211416104
+007,excluded,anti_pro,pre,State shame,1,I want to sink into the floor and disappear.,3,3  Feeling this way somewhat,76550882584
+007,excluded,anti_pro,pre,State shame,2,I feel small.,1,1  Not feeling this way at all,76560181916
+007,excluded,anti_pro,pre,State shame,3,I feel like I am a bad person.,1,1  Not feeling this way at all,76564463549
+007,excluded,anti_pro,pre,State shame,4,"I feel humiliated, disgraced.",1,1  Not feeling this way at all,76570233743
+007,excluded,anti_pro,pre,State shame,5,"I feel worthless, powerless.",2,2,76573695998
+007,excluded,anti_pro,pre,Belongingness,1,I feel included.,3,3  Moderately,76584885082
+007,excluded,anti_pro,pre,Belongingness,2,I feel accepted.,1,1  Not at all,76590053205
+007,excluded,anti_pro,pre,Belongingness,3,I feel like I belong.,2,2  Slightly,76596492545
+007,excluded,anti_pro,pre,Everyday mistakes (CFQ 2.0),1,Do you find you forget why you went from one part of the house to the other?,4,5  Very Often,76624540716
+007,excluded,anti_pro,pre,Everyday mistakes (CFQ 2.0),2,Do you find you forget whether you've turned off a light or a fire or locked the door?,2,3  Occasionally,76636415800
+007,excluded,anti_pro,pre,Everyday mistakes (CFQ 2.0),3,Do you fail to hear people speaking to you when you are doing something else?,3,4  Quite Often,76649612077
+007,excluded,anti_pro,pre,Everyday mistakes (CFQ 2.0),4,Do you find you forget appointments?,0,1  Never,76658158673
+007,excluded,anti_pro,pre,Everyday mistakes (CFQ 2.0),5,Do you find you accidentally throw away the thing you want and keep what you meant to throw away?,0,1  Never,76671037275
+007,excluded,anti_pro,pre,Everyday mistakes (CFQ 2.0),6,Do you find you forget what you came to the shops to buy?,2,3  Occasionally,76680871616
+007,excluded,anti_pro,pre,Everyday mistakes (CFQ 2.0),7,Do you forget to take your keys with you?,2,3  Occasionally,76689719441
+007,excluded,anti_pro,pre,Everyday mistakes (CFQ 2.0),8,Do you forget passwords you need to remember?,2,3  Occasionally,76694402488
+007,excluded,anti_pro,pre,Everyday mistakes (CFQ 2.0),9,Do you receive a delivery and forget what you ordered?,1,2  Very Rarely,76701142993
+007,excluded,anti_pro,pre,Everyday mistakes (CFQ 2.0),10,Do you call people by the wrong name?,1,2  Very Rarely,76707431676
+007,excluded,anti_pro,pre,Everyday mistakes (CFQ 2.0),11,"In conversations, do you forget people's name even when you know them well?",1,2  Very Rarely,76716630399
+007,excluded,anti_pro,pre,Everyday mistakes (CFQ 2.0),12,Do you get the dates of things mixed up?,2,3  Occasionally,76729258092
+007,excluded,anti_pro,pre,Everyday mistakes (CFQ 2.0),13,"Do you find you go to put objects in the wrong place, like putting something from the cupboard in the fridge?",0,1  Never,76746552049
+007,excluded,anti_pro,pre,Everyday mistakes (CFQ 2.0),14,Do you leave home and later realise you have forgotten something you intended to bring with you?,3,4  Quite Often,76756453376
+007,excluded,anti_pro,pre,Everyday mistakes (CFQ 2.0),15,"Do you think something is missing, only to later see it where you had already looked?",2,3  Occasionally,76781942735
+007,excluded,anti_pro,post,State shame,1,I want to sink into the floor and disappear.,3,3  Feeling this way somewhat,77665340248
+007,excluded,anti_pro,post,State shame,2,I feel small.,2,2,77669571622
+007,excluded,anti_pro,post,State shame,3,I feel like I am a bad person.,1,1  Not feeling this way at all,77671829456
+007,excluded,anti_pro,post,State shame,4,"I feel humiliated, disgraced.",1,1  Not feeling this way at all,77680593669
+007,excluded,anti_pro,post,State shame,5,"I feel worthless, powerless.",2,2,77682299641
+007,excluded,anti_pro,post,Belongingness,1,I feel included.,3,3  Moderately,77690277415
+007,excluded,anti_pro,post,Belongingness,2,I feel accepted.,2,2  Slightly,77693104192
+007,excluded,anti_pro,post,Belongingness,3,I feel like I belong.,2,2  Slightly,77696298578
+007,excluded,anti_pro,post,The game you just played,1,I felt ignored.,5,5  Extremely,77707337481
+007,excluded,anti_pro,post,The game you just played,2,I felt excluded.,5,5  Extremely,77709110293
+007,excluded,anti_pro,post,The game you just played,1,"Out of 100%, about what percentage of the throws did you receive?",2,2,77763082827
+007,excluded,anti_pro,post,One last question,1,"In a few words, what do you think this study was about?",to check the patienc level and eye movement study..,to check the patienc level and eye movement study..,77862464751
+008,excluded,pro_anti,pre,State shame,1,I want to sink into the floor and disappear.,3,3  Feeling this way somewhat,79707033476
+008,excluded,pro_anti,pre,State shame,2,I feel small.,2,2,79717102110
+008,excluded,pro_anti,pre,State shame,3,I feel like I am a bad person.,2,2,79720447167
+008,excluded,pro_anti,pre,State shame,4,"I feel humiliated, disgraced.",1,1  Not feeling this way at all,79723256814
+008,excluded,pro_anti,pre,State shame,5,"I feel worthless, powerless.",3,3  Feeling this way somewhat,79728057175
+008,excluded,pro_anti,pre,Belongingness,1,I feel included.,3,3  Moderately,79735215582
+008,excluded,pro_anti,pre,Belongingness,2,I feel accepted.,3,3  Moderately,79738845080
+008,excluded,pro_anti,pre,Belongingness,3,I feel like I belong.,2,2  Slightly,79747157489
+008,excluded,pro_anti,pre,Everyday mistakes (CFQ 2.0),1,Do you find you forget why you went from one part of the house to the other?,2,3  Occasionally,79769000758
+008,excluded,pro_anti,pre,Everyday mistakes (CFQ 2.0),2,Do you find you forget whether you've turned off a light or a fire or locked the door?,2,3  Occasionally,79772546474
+008,excluded,pro_anti,pre,Everyday mistakes (CFQ 2.0),3,Do you fail to hear people speaking to you when you are doing something else?,2,3  Occasionally,79776627411
+008,excluded,pro_anti,pre,Everyday mistakes (CFQ 2.0),4,Do you find you forget appointments?,2,3  Occasionally,79780307073
+008,excluded,pro_anti,pre,Everyday mistakes (CFQ 2.0),5,Do you find you accidentally throw away the thing you want and keep what you meant to throw away?,1,2  Very Rarely,79786746133
+008,excluded,pro_anti,pre,Everyday mistakes (CFQ 2.0),6,Do you find you forget what you came to the shops to buy?,1,2  Very Rarely,79794306097
+008,excluded,pro_anti,pre,Everyday mistakes (CFQ 2.0),7,Do you forget to take your keys with you?,0,1  Never,79796898567
+008,excluded,pro_anti,pre,Everyday mistakes (CFQ 2.0),8,Do you forget passwords you need to remember?,1,2  Very Rarely,79799674909
+008,excluded,pro_anti,pre,Everyday mistakes (CFQ 2.0),9,Do you receive a delivery and forget what you ordered?,0,1  Never,79804659130
+008,excluded,pro_anti,pre,Everyday mistakes (CFQ 2.0),10,Do you call people by the wrong name?,2,3  Occasionally,79809241734
+008,excluded,pro_anti,pre,Everyday mistakes (CFQ 2.0),11,"In conversations, do you forget people's name even when you know them well?",1,2  Very Rarely,79814476866
+008,excluded,pro_anti,pre,Everyday mistakes (CFQ 2.0),12,Do you get the dates of things mixed up?,3,4  Quite Often,79818056014
+008,excluded,pro_anti,pre,Everyday mistakes (CFQ 2.0),13,"Do you find you go to put objects in the wrong place, like putting something from the cupboard in the fridge?",2,3  Occasionally,79825030640
+008,excluded,pro_anti,pre,Everyday mistakes (CFQ 2.0),14,Do you leave home and later realise you have forgotten something you intended to bring with you?,3,4  Quite Often,79838009495
+008,excluded,pro_anti,pre,Everyday mistakes (CFQ 2.0),15,"Do you think something is missing, only to later see it where you had already looked?",3,4  Quite Often,79842993533
+008,excluded,pro_anti,post,State shame,1,I want to sink into the floor and disappear.,3,3  Feeling this way somewhat,80507373005
+008,excluded,pro_anti,post,State shame,2,I feel small.,3,3  Feeling this way somewhat,80514782131
+008,excluded,pro_anti,post,State shame,3,I feel like I am a bad person.,1,1  Not feeling this way at all,80516889620
+008,excluded,pro_anti,post,State shame,4,"I feel humiliated, disgraced.",1,1  Not feeling this way at all,80518695918
+008,excluded,pro_anti,post,State shame,5,"I feel worthless, powerless.",3,3  Feeling this way somewhat,80521673052
+008,excluded,pro_anti,post,Belongingness,1,I feel included.,2,2  Slightly,80527777859
+008,excluded,pro_anti,post,Belongingness,2,I feel accepted.,2,2  Slightly,80529734711
+008,excluded,pro_anti,post,Belongingness,3,I feel like I belong.,2,2  Slightly,80531273317
+008,excluded,pro_anti,post,The game you just played,1,I felt ignored.,4,4  Very,80538548949
+008,excluded,pro_anti,post,The game you just played,2,I felt excluded.,4,4  Very,80540171297
+008,excluded,pro_anti,post,The game you just played,1,"Out of 100%, about what percentage of the throws did you receive?",2,2,80551460905
+008,excluded,pro_anti,post,One last question,1,"In a few words, what do you think this study was about?",the experiment was designed to sense the negative aspects of emotions with respect to a social context and as to how said contexts can influence a persons emotions.,the experiment was designed to sense the negative aspects of emotions with respect to a social context and as to how said contexts can influence a persons emotions.,80652866565
